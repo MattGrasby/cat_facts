@@ -1,0 +1,10 @@
+.catFactCats {
+    display: flex;
+    border: "none";
+    cursor: "pointer";
+    visibility: "hidden";
+}
+
+.catFacts {
+    margin: auto !important;
+}
